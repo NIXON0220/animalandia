@@ -1,0 +1,131 @@
+body {
+height:600px;
+background-image: url("../img/fondo.jpg");
+background-size: 70em;
+  }
+
+.me-2{
+border-color: #ffffff;
+opacity: 69%;
+border-radius: 80px;
+}
+
+.btn-outline-success{
+color: #ffffff;
+background-color: #00B2D1;
+}
+
+.btn-outline-success:hover{
+background-color: #752995;
+}
+
+.btn-outline-secondary{
+border-color: #752995;
+opacity: 69%;
+border-radius: 80px;
+}
+
+.btn-outline-secondary:hover{
+background-color: #00B2D1;
+border-color: #00B2D1;
+}
+
+.navbar-expand-lg{
+box-shadow: 1px 20px 70px rgb(54, 54, 54);
+}
+
+.banner{   
+filter: drop-shadow(-2px 17px 23px rgba(0, 0, 0, 0.692));
+}
+
+.honda{
+opacity: 100%;
+}
+
+.contenedor{
+display: flex;
+margin: 100px;
+
+}
+
+.texto{
+margin-right: 100px;
+padding-left: 200px;
+padding-top: 110px;
+color: #752995;
+text-shadow: 5px 5px 8px gray;
+}
+
+.lorem{
+color: #00B2D1;
+}
+
+.botontips{
+ margin-top: 60px;
+}
+
+.btn-btnimage{
+border: #00B2D1 5px solid;
+padding: 15px 80px;
+border-radius: 60px;
+color: #00B2D1;
+}
+
+.btn-btnimage:hover{
+border: #752995 5px solid;
+padding: 15px 80px;
+border-radius: 60px;
+color: #752995;
+
+}
+
+.textocontacto{
+text-align: center;
+color:#00B2D1;
+text-shadow: 5px 5px 8px gray;
+}
+
+.imagegato{
+padding-left: 60px 80px;
+margin-left: 40em;
+padding-top: 10px;
+}
+
+.map iframe{
+box-sizing: border-box;
+position: absolute;
+left: 200px;
+top: 205%;
+border-radius: 50px;
+box-shadow: 10px 10px 15px rgb(54, 54, 54);
+}
+
+.textopie{
+margin:0 auto;
+color: #ffffff;
+position: absolute;
+left: 200px;
+top: 159em;
+bottom: 28.13%;
+text-align: center;
+}
+
+.textocorreo{
+margin:0 auto;
+color: #ffffff;
+position: absolute;
+left: 400px;
+top: 159em;
+bottom: 28.13%;
+text-align: center;
+}
+
+.textodireccion{
+margin:0 auto;
+color: #ffffff;
+position: absolute;
+left: 650px;
+top: 159em;
+bottom: 28.13%;
+text-align: center;
+}
